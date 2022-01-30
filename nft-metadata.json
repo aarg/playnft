@@ -1,0 +1,18 @@
+{
+    "attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "The Full Moon"
+    }, {
+      "trait_type" : "Moon Phase",
+      "value" : "WAXING GIBBOUS"
+    }, {
+        "trait_type" : "Date",
+        "value" : "12-Sep-2019"
+      }, {
+        "trait_type" : "Location",
+        "value" : "California, USA"
+      }],
+    "description" : "Full Harvest moon of September",
+    "image" : "https://gateway.pinata.cloud/ipfs/Qme2aKZJPEHagptJCGJsphdqw3mCeZWxFvUUeK4PzgZLT2",
+    "name" : "The Full Moon"
+}
